@@ -1,6 +1,9 @@
 class Song
   def name(ninety_nine_problems)
-    @ninety_nine_problems
+    @name = ninety_nine_problems 
+  end
+  def name
+    @name
   end
 end
 
