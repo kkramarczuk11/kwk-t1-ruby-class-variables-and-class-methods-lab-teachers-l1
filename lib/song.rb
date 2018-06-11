@@ -1,6 +1,6 @@
 class Song
   def name(ninety_nine_problems)
-    ninety_nine_problems
+    @ninety_nine_problems
   end
 end
 
